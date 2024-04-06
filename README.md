@@ -3,6 +3,7 @@
 ## This is a repo where I have my Leetcode solutions in Python programming.
 
 #### [3. Longest Substring Without Repeating Characters](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
+#### [58. Length of Last Word](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/58.%20Length%20of%20Last%20Word.py)
 #### [151. Reverse Words in a String](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/151.%20Reverse%20Words%20in%20a%20String.py)
 #### [205. Isomorphic Strings](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/205.%20Isomorphic%20Strings.py)
 #### [456. 132 Pattern](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/456.%20132%20Pattern.py)
