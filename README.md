@@ -12,3 +12,4 @@
 #### [1266. Minimum Time Visiting All Points](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1266.%20Minimum%20Time%20Visiting%20All%20Points.py)
 #### [1544. Make The String Great](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1544.%20Make%20The%20String%20Great.py)
 #### [1614. Maximum Nesting Depth of the Parentheses](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)
+#### [1700. Number of Students Unable to Eat Lunch](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py)
