@@ -23,6 +23,7 @@
 #### [1544. Make The String Great](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1544.%20Make%20The%20String%20Great.py)
 #### [1614. Maximum Nesting Depth of the Parentheses](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)
 #### [1700. Number of Students Unable to Eat Lunch](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py)
+#### [2000. Reverse Prefix of Word](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2000.%20Reverse%20Prefix%20of%20Word.py)
 #### [2370. Longest Ideal Subsequence](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2370.%20Longest%20Ideal%20Subsequence.py)
 #### [2958. Length of Longest Subarray With at Most K Frequency](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py)
 #### [2962. Count Subarrays Where Max Element Appears at Least K Times](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2962.%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times.py)
