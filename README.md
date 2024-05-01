@@ -12,6 +12,7 @@
 #### [456. 132 Pattern](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/456.%20132%20Pattern.py)
 #### [463. Island Perimeter](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/463.%20Island%20Perimeter.py)
 #### [832. Flipping an Image](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/832.%20Flipping%20an%20Image.py) 
+#### [930. Binary Subarrays With Sum](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/930.%20Binary%20Subarrays%20With%20Sum.py)
 #### [1160. Find Words That Can Be Formed by Characters](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py)
 #### [1266. Minimum Time Visiting All Points](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1266.%20Minimum%20Time%20Visiting%20All%20Points.py)
 #### [1544. Make The String Great](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1544.%20Make%20The%20String%20Great.py)
