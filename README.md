@@ -27,3 +27,5 @@
 #### [2370. Longest Ideal Subsequence](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2370.%20Longest%20Ideal%20Subsequence.py)
 #### [2958. Length of Longest Subarray With at Most K Frequency](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py)
 #### [2962. Count Subarrays Where Max Element Appears at Least K Times](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2962.%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times.py)
+#### [3120. Count the Number of Special Characters I](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py)
+#### [3121. Count the Number of Special Characters II](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3121.%20Count%20the%20Number%20of%20Special%20Characters%20II.py)
