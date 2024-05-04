@@ -6,6 +6,7 @@
 #### [5. Longest Palindromic Substring](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/5.%20Longest%20Palindromic%20Substring.py)
 #### [12. Integer to Roman](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/12.%20Integer%20to%20Roman.py)
 #### [13. Roman to Integer](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/13.%20Roman%20to%20Integer.py)
+#### [33. Search in Rotated Sorted Array](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
 #### [41. First Missing Positive](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/41.%20First%20Missing%20Positive.py)
 #### [58. Length of Last Word](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/58.%20Length%20of%20Last%20Word.py)
 #### [151. Reverse Words in a String](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/151.%20Reverse%20Words%20in%20a%20String.py)
