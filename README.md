@@ -12,6 +12,7 @@
 #### [151. Reverse Words in a String](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/151.%20Reverse%20Words%20in%20a%20String.py)
 #### [205. Isomorphic Strings](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/205.%20Isomorphic%20Strings.py)
 #### [234. Palindrome Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/234.%20Palindrome%20Linked%20List.py)
+#### [237. Delete Node in a Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/237.%20Delete%20Node%20in%20a%20Linked%20List.py)
 #### [273. Integer to English Words](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/273.%20Integer%20to%20English%20Words.py)
 #### [456. 132 Pattern](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/456.%20132%20Pattern.py)
 #### [463. Island Perimeter](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/463.%20Island%20Perimeter.py)
