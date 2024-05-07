@@ -10,6 +10,7 @@
 #### [41. First Missing Positive](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/41.%20First%20Missing%20Positive.py)
 #### [58. Length of Last Word](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/58.%20Length%20of%20Last%20Word.py)
 #### [151. Reverse Words in a String](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/151.%20Reverse%20Words%20in%20a%20String.py)
+#### [152. Maximum Product Subarray](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/152.%20Maximum%20Product%20Subarray.py)
 #### [205. Isomorphic Strings](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/205.%20Isomorphic%20Strings.py)
 #### [234. Palindrome Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/234.%20Palindrome%20Linked%20List.py)
 #### [237. Delete Node in a Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/237.%20Delete%20Node%20in%20a%20Linked%20List.py)
