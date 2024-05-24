@@ -15,6 +15,7 @@
 #### [234. Palindrome Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/234.%20Palindrome%20Linked%20List.py)
 #### [237. Delete Node in a Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/237.%20Delete%20Node%20in%20a%20Linked%20List.py)
 #### [273. Integer to English Words](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/273.%20Integer%20to%20English%20Words.py)
+#### [283. Move Zeroes](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/283.%20Move%20Zeroes.py)
 #### [456. 132 Pattern](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/456.%20132%20Pattern.py)
 #### [463. Island Perimeter](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/463.%20Island%20Perimeter.py)
 #### [713. Subarray Product Less Than K](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/713.%20Subarray%20Product%20Less%20Than%20K.py)
