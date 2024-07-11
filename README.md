@@ -76,6 +76,7 @@
 #### [1700. Number of Students Unable to Eat Lunch](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py)
 #### [1791. Find Center of Star Graph](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1791.%20Find%20Center%20of%20Star%20Graph.py)
 #### [1818. Minimum Absolute Sum Difference](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1818.%20Minimum%20Absolute%20Sum%20Difference.py)
+#### [1823. Find the Winner of the Circular Game](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.py)
 #### [1910. Remove All Occurrences of a Substring](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring.py)
 #### [1962. Remove Stones to Minimize the Total](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.py)
 #### [2000. Reverse Prefix of Word](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2000.%20Reverse%20Prefix%20of%20Word.py)
