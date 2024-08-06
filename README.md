@@ -92,6 +92,7 @@
 #### [1387. Sort Integers by The Power Value](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1387.%20Sort%20Integers%20by%20The%20Power%20Value.py)
 #### [1395. Count Number of Teams](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1395.%20Count%20Number%20of%20Teams.py)
 #### [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.py)
+#### [1460. Make Two Arrays Equal by Reversing Subarrays](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays.py)
 #### [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.py)
 #### [1482. Minimum Number of Days to Make m Bouquets](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.py)
 #### [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py)
