@@ -19,6 +19,7 @@
 #### [33. Search in Rotated Sorted Array](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
 #### [36. Valid Sudoku](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/36.%20Valid%20Sudoku.py)
 #### [41. First Missing Positive](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/41.%20First%20Missing%20Positive.py)
+#### [42. Trapping Rain Water](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/42.%20Trapping%20Rain%20Water.py)
 #### [45. Jump Game II](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/45.%20Jump%20Game%20II.py)
 #### [55. Jump Game](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/55.%20Jump%20Game.py)
 #### [58. Length of Last Word](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/58.%20Length%20of%20Last%20Word.py)
