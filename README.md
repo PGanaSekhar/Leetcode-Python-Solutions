@@ -68,6 +68,7 @@
 #### [567. Permutation in String](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/567.%20Permutation%20in%20String.py)
 #### [593. Valid Square](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/593.%20Valid%20Square.py)
 #### [633. Sum of Square Numbers](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/633.%20Sum%20of%20Square%20Numbers.py)
+#### [650. 2 Keys Keyboard](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/650.%202%20Keys%20Keyboard.py)
 #### [678. Valid Parenthesis String](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/678.%20Valid%20Parenthesis%20String.py)
 #### [692. Top K Frequent Words](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/692.%20Top%20K%20Frequent%20Words.py)
 #### [703. Kth Largest Element in a Stream](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
