@@ -115,6 +115,7 @@
 #### [1653. Minimum Deletions to Make String Balanced](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced.py)
 #### [1700. Number of Students Unable to Eat Lunch](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py)
 #### [1717. Maximum Score From Removing Substrings](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1717.%20Maximum%20Score%20From%20Removing%20Substrings.py)
+#### [1752. Check if Array Is Sorted and Rotated](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py)
 #### [1781. Sum of Beauty of All Substrings](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1781.%20Sum%20of%20Beauty%20of%20All%20Substrings.py)
 #### [1791. Find Center of Star Graph](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1791.%20Find%20Center%20of%20Star%20Graph.py)
 #### [1818. Minimum Absolute Sum Difference](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1818.%20Minimum%20Absolute%20Sum%20Difference.py)
