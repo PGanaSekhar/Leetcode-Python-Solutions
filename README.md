@@ -111,6 +111,8 @@
 #### [1460. Make Two Arrays Equal by Reversing Subarrays](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays.py)
 #### [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.py)
 #### [1482. Minimum Number of Days to Make m Bouquets](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.py)
+#### [1497. Check If Array Pairs Are Divisible by k](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.py)
+#### [1508. Range Sum of Sorted Subarray Sums](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.py)
 #### [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py)
 #### [1544. Make The String Great](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1544.%20Make%20The%20String%20Great.py)
 #### [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1574.%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.py)
