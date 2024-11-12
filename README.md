@@ -23,6 +23,7 @@
 #### [41. First Missing Positive](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/41.%20First%20Missing%20Positive.py)
 #### [42. Trapping Rain Water](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/42.%20Trapping%20Rain%20Water.py)
 #### [45. Jump Game II](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/45.%20Jump%20Game%20II.py)
+#### [46. Permutations](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/46.%20Permutations.py)
 #### [55. Jump Game](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/55.%20Jump%20Game.py)
 #### [58. Length of Last Word](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/58.%20Length%20of%20Last%20Word.py)
 #### [74. Search a 2D Matrix](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/74.%20Search%20a%202D%20Matrix.py)
