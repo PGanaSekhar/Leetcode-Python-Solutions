@@ -123,6 +123,7 @@
 #### [1614. Maximum Nesting Depth of the Parentheses](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)
 #### [1636. Sort Array by Increasing Frequency](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1636.%20Sort%20Array%20by%20Increasing%20Frequency.py)
 #### [1647. Minimum Deletions to Make Character Frequencies Unique](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.py)
+#### [1652. Defuse the Bomb](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1652.%20Defuse%20the%20Bomb.py)
 #### [1653. Minimum Deletions to Make String Balanced](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced.py)
 #### [1700. Number of Students Unable to Eat Lunch](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py)
 #### [1710. Maximum Units on a Truck](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1710.%20Maximum%20Units%20on%20a%20Truck.py)
