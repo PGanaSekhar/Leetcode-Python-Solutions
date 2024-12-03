@@ -106,6 +106,7 @@
 #### [1208. Get Equal Substrings Within Budget](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1208.%20Get%20Equal%20Substrings%20Within%20Budget.py)
 #### [1248. Count Number of Nice Subarrays](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1248.%20Count%20Number%20of%20Nice%20Subarrays.py)
 #### [1266. Minimum Time Visiting All Points](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1266.%20Minimum%20Time%20Visiting%20All%20Points.py)
+#### [1346. Check If N and Its Double Exist](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py)
 #### [1352. Product of the Last K Numbers](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1352.%20Product%20of%20the%20Last%20K%20Numbers.py)
 #### [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.py)
 #### [1387. Sort Integers by The Power Value](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/1387.%20Sort%20Integers%20by%20The%20Power%20Value.py)
