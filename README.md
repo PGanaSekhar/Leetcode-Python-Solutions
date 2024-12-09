@@ -150,6 +150,7 @@
 #### [2441. Largest Positive Integer That Exists With Its Negative](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.py)
 #### [2486. Append Characters to String to Make Subsequence](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence.py)
 #### [2487. Remove Nodes From Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2487.%20Remove%20Nodes%20From%20Linked%20List.py)
+#### [2554. Maximum Number of Integers to Choose From a Range I](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.py)
 #### [2582. Pass the Pillow](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2582.%20Pass%20the%20Pillow.py)
 #### [2816. Double a Number Represented as a Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.py)
 #### [2958. Length of Longest Subarray With at Most K Frequency](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py)
