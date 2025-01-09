@@ -168,6 +168,7 @@
 #### [2976. Minimum Cost to Convert String I](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2976.%20Minimum%20Cost%20to%20Convert%20String%20I.py)
 #### [3011. Find if Array Can Be Sorted](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3011.%20Find%20if%20Array%20Can%20Be%20Sorted.py)  
 #### [3016. Minimum Number of Pushes to Type Word II](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.py)
+#### [3042. Count Prefix and Suffix Pairs I](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.py)
 #### [3043. Find the Length of the Longest Common Prefix](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.py)
 #### [3110. Score of a String](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3110.%20Score%20of%20a%20String.py)
 #### [3120. Count the Number of Special Characters I](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py)
