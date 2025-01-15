@@ -177,4 +177,5 @@
 #### [3133. Minimum Array End](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3133.%20Minimum%20Array%20End.py)
 #### [3163. String Compression III](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3163.%20String%20Compression%20III.py)
 #### [3194. Minimum Average of Smallest and Largest Elements](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3194.%20Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements.py)
+#### [3223. Minimum Length of String After Operations](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3223.%20Minimum%20Length%20of%20String%20After%20Operations.py)
 #### [3264. Final Array State After K Multiplication Operations I](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.py)
