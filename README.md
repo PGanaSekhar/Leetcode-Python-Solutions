@@ -163,6 +163,7 @@
 #### [2559. Count Vowel Strings in Ranges](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2559.%20Count%20Vowel%20Strings%20in%20Ranges.py)
 #### [2563. Count the Number of Fair Pairs](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2563.%20Count%20the%20Number%20of%20Fair%20Pairs.py)
 #### [2582. Pass the Pillow](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2582.%20Pass%20the%20Pillow.py)
+#### [2683. Neighboring Bitwise XOR](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2683.%20Neighboring%20Bitwise%20XOR.py)
 #### [2816. Double a Number Represented as a Linked List](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.py)
 #### [2958. Length of Longest Subarray With at Most K Frequency](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py)
 #### [2962. Count Subarrays Where Max Element Appears at Least K Times](https://github.com/PGanaSekhar/Leetcode-Python-Solutions/blob/main/2962.%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times.py)
